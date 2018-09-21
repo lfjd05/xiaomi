@@ -1,3 +1,5 @@
+# coding=utf-8
+# 示例程序
 import sys
 
 

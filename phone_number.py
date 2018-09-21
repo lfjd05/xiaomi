@@ -6,7 +6,6 @@ def mut_input():
         a.append([each for each in raw_input().split()])
         n[0] -= 1
     return a
-
 a = mut_input()
 
 num = [0]*10
